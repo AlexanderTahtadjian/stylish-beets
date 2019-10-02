@@ -16,7 +16,8 @@ header {
 nav {
   color: #8f2440
   font-size: 1.125rem;
-  font-style: PT, sans;
+  font-weight: bold;
+  font-family: PT, sans;
 }
 
 h1, h2 {
