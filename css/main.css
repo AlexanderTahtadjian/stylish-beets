@@ -43,3 +43,7 @@ figcaption {
   text-align: center;
   font-weight: normal;
 }
+
+a {
+  list-style-type: none;
+}
