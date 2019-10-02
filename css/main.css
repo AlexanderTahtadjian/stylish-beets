@@ -7,3 +7,8 @@ html {
 img {
   width: 100%;
 }
+
+header {
+  font-size: 1.5rem;
+  font-style: PT, sans;
+}
