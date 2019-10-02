@@ -14,13 +14,15 @@ header {
 }
 
 nav ol {
+  list-style-type: none;
+}
+
+nav a {
   color: #8f2440
   font-size: 1.125rem;
   font-weight: bold;
   font-family: "Patua One", sans-serif;
-  list-style-type: none;
 }
-
 h1, h2 {
   color: #3f1622;
   text-transform: none;
