@@ -22,6 +22,7 @@ nav a {
   font-size: 1.125rem;
   font-weight: bold;
   font-family: "Patua One", sans-serif;
+  text-decoration: none;
 }
 h1, h2 {
   color: #3f1622;
