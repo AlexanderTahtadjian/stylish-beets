@@ -23,6 +23,12 @@ nav a {
   font-family: "Patua One", sans-serif;
   text-decoration: none;
 }
+
+nav a:hover {
+  color: #222;
+  text-decoration: underline;
+}
+
 h1, h2 {
   color: #3f1622;
   text-transform: none;
