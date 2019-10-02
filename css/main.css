@@ -13,8 +13,10 @@ header {
   font-style: PT, sans;
 }
 
-nav ul {
+nav {
   color: #8f2440
+  font-size: 1.125rem;
+  font-style: PT, sans;
 }
 
 h1, h2 {
