@@ -17,3 +17,9 @@ nav ul {
   font-family: sans-serif;
   color: #8f2440
 }
+
+h1, h2 {
+  color: #8f2440;
+  text-transform: uppercase;
+  font-family: "Patua One", sans-serif;
+}
