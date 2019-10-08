@@ -30,15 +30,10 @@ a:hover {
   text-decoration: underline;
 }
 
-h1 {
+h1, h2 {
   color: #3f1622;
   text-transform: none;
   font-family: "PT Sans", sans-serif;
-}
-
-h2 {
-  color: #3f1622;
-  text-transform: none;
   font-family: "PT Sans", serif;
 }
 
