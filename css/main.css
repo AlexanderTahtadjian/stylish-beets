@@ -34,6 +34,7 @@ h1, h2 {
   color: #3f1622;
   font-size: 1.5rem;
   text-transform: none;
+  font-weight: bold;
   font-family: "PT Sans", sans-serif;
   line-height: 1.5;
 }
