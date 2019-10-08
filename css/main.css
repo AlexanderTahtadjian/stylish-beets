@@ -48,3 +48,7 @@ a {
   list-style-type: none;
   text-decoration: underline;
 }
+
+p {
+  font-family: "PT Serif", serif;
+}
