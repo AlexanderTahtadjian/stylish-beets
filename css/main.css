@@ -15,6 +15,7 @@ header {
 nav ol {
   list-style-type: none;
   font-weight: bold;
+  line-height: 1.5;
 }
 
 nav a {
